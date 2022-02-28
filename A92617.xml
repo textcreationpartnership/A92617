@@ -1,0 +1,204 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Three acts of the Committee of Estates of the Kingdom of Scotland; the first, for providing maintenance for the soldiers to be kept up within that kingdom; and for preventing their taking of free-quarter. The second, for appointing a sub-committee for the managing the affairs of the treasury, comptrolary, collectory and exchequer of that kingdom. The third, for summoning all those who are accessory to the late engagement against England, to compier before the Estates of Parliament of the fourth of January next, 1649.</title>
+            <title>Acts. 1648-11.</title>
+            <author>Scotland.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92617</idno>
+            <idno type="STC">Wing S1349</idno>
+            <idno type="STC">Thomason E470_21</idno>
+            <idno type="STC">ESTC R205664</idno>
+            <idno type="EEBO-CITATION">99864977</idno>
+            <idno type="PROQUEST">99864977</idno>
+            <idno type="VID">117210</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92617)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117210)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 75:E470[21])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Three acts of the Committee of Estates of the Kingdom of Scotland; the first, for providing maintenance for the soldiers to be kept up within that kingdom; and for preventing their taking of free-quarter. The second, for appointing a sub-committee for the managing the affairs of the treasury, comptrolary, collectory and exchequer of that kingdom. The third, for summoning all those who are accessory to the late engagement against England, to compier before the Estates of Parliament of the fourth of January next, 1649.</title>
+                  <title>Acts. 1648-11.</title>
+                  <author>Scotland.</author>
+                  <author>Scotland. Parliament. Committee of Estates.</author>
+               </titleStmt>
+               <extent>12 [i.e. 15], [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>... reprinted ... by John Field,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Novemb. 9. 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reprint. Orginally published: Edenburgh, printed by Evan Tyler.</note>
+                  <note>Page 15 misnumbered 12.</note>
+                  <note>Annotation on Thomason copy: "nou: 9".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Scotland. --  Parliament.</term>
+               <term>Scotland --  History, (Charles I, 1526-1649) --  Early works to 1800.</term>
+               <term>Scotland --  Foreign relations --  England --  Early works to 1800.</term>
+               <term>England --  Foreign relations --  Scotland --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:117210:1" rendition="simple:additions"/>
+            <p>THREE ACTS OF THE Committee of Eſtates OF The Kingdom of <hi>Scotland; The firſt,</hi> For providing Maintenance for the Soldiers to be kept up within that Kingdom; and for preventing their taking of Free-quarter.</p>
+            <p>
+               <hi>The ſecond,</hi> For appointing a Sub-Committee for the managing the Affairs of the Treaſury, Comptrolary, Col<g ref="char:EOLhyphen"/>lectory and Exchequer of that Kingdom.</p>
+            <p>
+               <hi>The third,</hi> For Summoning all thoſe who are acceſſory to the late Engagement againſt <hi>England,</hi> to Compier before the Eſtates of Parliament the fourth of <hi>January</hi> next, 1649.</p>
+            <p>
+               <hi>Edenburgh,</hi> Printed by <hi>Evan Tyler:</hi> and Reprinted at <hi>London</hi> by <hi>John Field,</hi> Novemb. 9. 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="act">
+            <pb facs="tcp:117210:2"/>
+            <pb n="3" facs="tcp:117210:2"/>
+            <opener>
+               <dateline>
+                  <hi>Edinburgh,</hi> 
+                  <date>20 <hi>October,</hi> 1648.</date>
+               </dateline>
+            </opener>
+            <p>THe Committee of Eſtates conſidering how neceſſary it is, that ſome orderly courſe be taken how the Forces to be kept up within this Kingdom may be enter<g ref="char:EOLhyphen"/>tained by the publike, with as little burthen as may be to the Countrey; Have therefore thought fit, that a proportionable part of the mainte<g ref="char:EOLhyphen"/>nance due by the Shires, ſhall be particularly aſsigned to each Regiment or, Troop for their entertainment: And for that end, the Committee appoints the maintenance due out of the Shires of <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> to be allowed for entertainment of the Regi<g ref="char:EOLhyphen"/>ment or Troop which ſhould conſiſt of <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> And to the effect that neither the Publike be pre<g ref="char:EOLhyphen"/>judged by paying more Soldiers then actually they have on foot, and that the Soldiers alſo want none of their due, The Committee Or<g ref="char:EOLhyphen"/>dains, That there be a Muſter of the ſeveral Re<g ref="char:EOLhyphen"/>giments and Troops, and upon atteſtation from
+<pb n="4" facs="tcp:117210:3"/>
+the Muſter-Maſter of their particular numbers, that the General Commiſſary and his Deputies, accordingly give out particular aſsignations up<g ref="char:EOLhyphen"/>on ſo much of the maintenance of the Shires a<g ref="char:EOLhyphen"/>foreſaid, as will fall due for their entertainment for the ſpace of one moneth, and after the expi<g ref="char:EOLhyphen"/>ring of that time, the Muſter-Maſter ſhall take new tryal of the number of the Soldiers; and the Collectors ſhall alſo try whether they have lifted more nor was aſsigned, and give atteſta<g ref="char:EOLhyphen"/>tion thereof; upon report whereof, the General Commiſſary is to renew Orders for their aſ<g ref="char:EOLhyphen"/>ſignations, according to the number atteſted, and where there is more lifted nor was aſsign<g ref="char:EOLhyphen"/>ed, he is to give aſsignations for no more nor what ſhall be found then due, the whole intro<g ref="char:EOLhyphen"/>miſsion being compted: And the Committee alſo is to take courſe for the eaſe and reparation of the Shires ſo oppreſſed and burthened; And the General Commiſſary hath hereby power and direction to renew Orders for aſsignations every moneth, from time to time in maner above expreſſed, until he be diſcharged by the Committee of Eſtates: And to the end the Soldiers may be the more orderly paid, and the
+<pb n="5" facs="tcp:117210:3"/>
+Countrey people kept from oppreſsion, the Committee appoints the maintenance aſsigned to any Regiment or Troop, to be lifted up in maner after following, <hi>viz.</hi> That the Officer of the Regiment or Troop, ſhall intimate this their Aſsignment received from the General Commiſſary, unto the Committee of War in the Shire or Shires reſpectively, and unto the Collectors thereof, and deſire them to advance in moneys, or give them ſurety for the paying to them the firſt fortnights pay, from the time of their entry ſet down in their locality: And that the Committee of War by ſome of their number, or others, or by their Collectors, will give them Band for to advance unto them the firſt day of every fortnight thereafter their fort<g ref="char:EOLhyphen"/>nights means, which if the Committee of War by themſelves, their Collectors or others binde for and perform, the Committee of Eſtates doth abſolutely diſcharge any Officer or Soldier belonging to that Regiment or Troop, to take any Free quarter within that ſhire, but ſeeing they are orderly paid by the Shire, they ſhall orderly pay for whatſoever they take, with cer<g ref="char:EOLhyphen"/>tification, that if upon complaint verified to the
+<pb n="6" facs="tcp:117210:4"/>
+Officers, he do not make reparation of the wrong, and condignly puniſh the Offender, the Officer ſhall be caſhiered with infamy, and be obliged to ſatisfie the party: Like as the COMMITTEE Ordains the Officers of that Regiment or Troop having that locality, to furniſh what aſsiſtance ſhall be craved by the Committee of War, or by theſe who are bound for them, that they may exact what is due by any deficient for their relief, with allowance of Free quarter to theſe who are bound to this ſer<g ref="char:EOLhyphen"/>vice, ſo imployed by them upon the deficient his Lands until he be payed: But upon the other party, if the Committee of War in the Shires, after this intimation made by the Officers, ſhall refuſe to give ſurety, by themſelves or their Col<g ref="char:EOLhyphen"/>lectors, or by ſome others in this orderly way, to advance a fortnights means, from fortnight to fortnight, or if giving the ſecurity, they ſhall fail in the performance: In theſe caſes the Com<g ref="char:EOLhyphen"/>mittee of Eſtates gives power and warrant to the Officers of that Regiment or Troop, for to appoint any of themſelves or any other they think fit, to lift up the maintenance due by the bonds aſsigned to them, and for to have Free-quarter
+<pb n="7" facs="tcp:117210:4"/>
+upon all ſuch deficients as will not ad<g ref="char:EOLhyphen"/>vance unto them, or give them ſurety for to pay duly their maintenance the firſt day of every fortnight, until they get ſatisfaction therein; but withal, abſolutely diſchargeth them to trouble any, or Quarter upon any who thus advanceth or ſecureth to them what is their due, to be pay<g ref="char:EOLhyphen"/>ed at the beginning of every fortnight: And Ordains this to be publiſhed at the Market Croſs of <hi>Edenburgh,</hi> and other places needful, and alſo to be Printed.</p>
+            <closer>
+               <signed>THO: HENDERSON</signed>
+            </closer>
+         </div>
+         <div type="act">
+            <opener>
+               <dateline>
+                  <hi>Edenburgh,</hi> 
+                  <date>
+                     <hi>October</hi> 20. 1648.</date>
+               </dateline>
+            </opener>
+            <p>THe Committee of Eſtates taking into their conſideration, that by the late agreement at <hi>Edenburgh</hi> and <hi>Stirlin,</hi> and by their Acts of the 22. of <hi>Sep.</hi> and the fourth of <hi>October</hi> laſt, and by their engagement to the Kingdom of <hi>England,</hi> that all thoſe who have been acceſſory to the late engagement, or who have joyned in Arms or Counſel with the Earls of <hi>Crawford, Lanerick,
+<pb n="8" facs="tcp:117210:5"/>
+George Monro,</hi> and were Abetters or Aſsiſters to them, ſhould forbear all exerciſe of their places or truſt; and that the moſt part of the Members of the Exchequer, or Officers belonging there<g ref="char:EOLhyphen"/>to, are notoriouſly known to have been acceſſory to the ſaid Engagement, or hath joyned in Arms or Counſel as is aforeſaid; and conſidering that the Government of the Affairs of this Kingdom is now lying upon the Committee as it is now conſtitute, conſiſting of theſe who diſaſſented from the Engagement, and how great and many prejudices thereunto will fall out, if in this in<g ref="char:EOLhyphen"/>terim they did not take care to ſee the Exchequer and the Kings revenues and cuſtoms kept from confuſion and dilapidation; And that the King be not defrauded of his revenues, caſualties, and cuſtoms, nor the ſame perverted or imployed to wrong uſes, but for the good of the King and Kingdom. And withal, conſidering how neceſſa<g ref="char:EOLhyphen"/>ry it is that the Cuſtoms be rightly ſet, and that what further is neceſſary to be done upon the tryal of the true condition of the Affairs of the Exchequer may be timouſly gone about, There<g ref="char:EOLhyphen"/>fore the Committee appoints the Lord Chan<g ref="char:EOLhyphen"/>cellor, the Lord Marqueſs of <hi>Argyle,</hi> the Earl
+<pb n="9" facs="tcp:117210:5"/>
+of <hi>Caſsils,</hi> the Lord <hi>Balmirinoth<g ref="char:punc">▪</g>
+               </hi> the Lord Burghly, the Lord Advocate, Lord <hi>Toſes, Scotſcraig, Lib<g ref="char:EOLhyphen"/>berton,</hi> the Provoſt of <hi>Edenburgh,</hi> Sir <hi>Iohn Smith, Robert Lochart, George Gairns,</hi> or any ſeven of them, there being one of every Eſtate, as a Sub-Com<g ref="char:EOLhyphen"/>mittee, in their name to meet and uſe all poſsi<g ref="char:EOLhyphen"/>ble means to ſearch and try out the true condi<g ref="char:EOLhyphen"/>tion of the Affairs of the Treaſury, Comtrolary, Collectory, and Exchequer, and thereby to learn what hath been gotten in &amp; received, and what hath been disburſed, and how, &amp; to whom, and for what. And likewiſe to know what was owing to the Exchequer on the firſt day of <hi>September</hi> laſt, and by whom, And what is owing by the Exchequer, and to whom, and for what, That they may make ane full report of the true condition thereof, with their opinion anent the abuſes, and the beſt remedies thereof unto the Committee of Eſtates, that they may take courſe thereanent as they ſhall ſee cauſe and ne<g ref="char:EOLhyphen"/>ceſsity to require. And to this effect the Com<g ref="char:EOLhyphen"/>mittee grants their full power and Commiſsion to the Sub-Committee aforeſaid, or any ſeven of them, to call for, and peruſe the Records and Books, or Accompts belonging to the Ex<g ref="char:EOLhyphen"/>chequer,
+<pb n="10" facs="tcp:117210:6"/>
+or any Officer thereof; as alſo to call and convene before them any Member or Of<g ref="char:EOLhyphen"/>ficer of the Exchequer, or any of their Clerks, Receivers, Cuſtomers or Collectors, and to call from them ane full Accompt and exact Declara<g ref="char:EOLhyphen"/>tion of their knowledge in any of the particulars aforeſaid, or any other thing relating thereunto, and this under their Hand writ, with their offer to verifie the ſame by their Oath, if the Sub-Committee ſhall finde it neceſſary to re<g ref="char:EOLhyphen"/>quire the ſame; With power likewiſe to them to cite and convene before them, and to examine any other perſons whom they ſhall finde ne<g ref="char:EOLhyphen"/>ceſſary to be convened and examined for the tryal of the particulars aforeſaid: Like as the Committee gives them hereby full power and warrant to adviſe on the beſt way of ſetting the Cuſtoms at the beſt avail, and to report their opinion to the Committee, that the ſame may be timouſly ſetled; and to the end there may be no confuſion of compts, nor anticipation of payment from them that are owing to the Ex<g ref="char:EOLhyphen"/>chequer, for ſatisfying of Penſions or Precepts to evil affected perſons in this interim, Therefore the Committee diſchargeth the Earl of <hi>Craford-Lindſey,</hi>
+               <pb n="11" facs="tcp:117210:6"/>
+Sir <hi>Iames Carmichael,</hi> Sir <hi>William Lochart, A<g ref="char:EOLhyphen"/>dam Blair,</hi> or any other Officer or Receiver of the Exchequer from all intrometting with any of the Kings Rents or Cuſtoms, &amp; from all giving out any warrants, precepts or payments there<g ref="char:EOLhyphen"/>anent, or holding of Exchequers, paſsing of Signators, taking up of moneys from the Cu<g ref="char:EOLhyphen"/>ſtomers, the King or Prince, their tenants or vaſ<g ref="char:EOLhyphen"/>ſals, or any other way medling in the exerciſe of their places ſince the date of the Agreement at <hi>Edinburgh</hi> and <hi>Sterlin,</hi> unto the time that the Par<g ref="char:EOLhyphen"/>liament give warrant thereanent; during which time they are ſuſpended from the exerciſe of their places: Like as the Committee diſchargeth all Sub-collectors and under Receivers, or any of the Kings Lieges to pay any of the Dues, or Rents, or Cuſtoms, or Caſualties of the King into any of the aforeſaid Officers, or unto any other perſon by vertue of their Precept, Warrant or Allowance. And withal, the Com<g ref="char:EOLhyphen"/>mittee doth hereby declare, That all Signators Precepts, Diſcharges, Allowances, or other Warrants whatſoever, that hath or ſhall be granted by the perſons aforeſaid, and all pay<g ref="char:EOLhyphen"/>ments made unto them, or to any other by their
+<pb n="12" facs="tcp:117210:7"/>
+warrant, by any of the Sub-collectors or o<g ref="char:EOLhyphen"/>ther Leiges whatſoever ſince the date of the agreement aforeſaid at <hi>Sterlin</hi> and <hi>Edinburgh,</hi> are null and of none effect either to the receiver or givers; ſo that both they who have received them, ſhall be lyable to refound the ſame, and theſe who have payed them, ſhall be found lyable to pay the ſame over again to ſuch as ſhall have warrant from the Committe or Parliament, as alſo they ſhall be lyable to what Cenſure the Committee ſhall think fit for their diſobedience of this publique Order; Like as the Commit<g ref="char:EOLhyphen"/>tee appoints the Cuſtomers, the Tenants of the Kings Propriety and Principality to come or ſend to the Sub-committe at <hi>Edinburgh,</hi> an Ac<g ref="char:EOLhyphen"/>compt of their condition with the Exchequer, and to make payment of what is due to ſuch as the Committee or Parliament ſhall appoint. And to the end none may pretend ignorance hereof, The Committee appoints this to be pro<g ref="char:EOLhyphen"/>claimed at the Market Croſs of <hi>Edinburgh,</hi> and other places needful, and to be publiſhed in Print.</p>
+            <closer>
+               <signed>Tho: Henderſon.</signed>
+            </closer>
+         </div>
+         <div type="act">
+            <pb n="13" facs="tcp:117210:7"/>
+            <opener>
+               <dateline>
+                  <hi>Edinburgh,</hi> 
+                  <date>27 <hi>October,</hi> 1648.</date>
+               </dateline>
+            </opener>
+            <p>VVHereas it is the ſpecial duty and priviledge of Parliament to ſettle and preſerve the Government and Peace of the Kingdom, to keep the Judicatories thereof free from corruption, and preſerve the Union betwixt the Kingdoms; and that the expe<g ref="char:EOLhyphen"/>diency and neceſſity of frequent meetings of Parliament, for the good of the Kingdom, eſpecially in troubleſome times, is known to all; and that now after ſo many great diſtractions and alterations, the Kings Majeſty and the Honorable Houſes of the Parliament of <hi>England</hi> are now upon a Treaty, wherein Religion, the King, and the good and Peace of the Kingdom are ſo neerly concerned; in all which the intereſt of this Kingdom can be beſt ſettled and ſecured by the Wiſdom and Authority of the Parliament.</p>
+            <p>Like as by the late Treaty at <hi>Edinburgh</hi> and <hi>Stirlin</hi> it is agreed on, That all Civil queſtions and differences whatſoever, be referred to the determination of a Parliament to ſit down before the tenth of <hi>January</hi> next, and in regard of the Clauſe contained in the Com<g ref="char:EOLhyphen"/>miſſion to the Committee of Eſtates, giving them power to call a meeting of the Eſtates of Parliament, the whole perſons of the Committee within the Kingdom being warned; Therefore the Com<g ref="char:EOLhyphen"/>mittee of Eſtates having warned duly by Letters all theſe that are now of their number, and being frequently convened, they think fit to call; Like as they do hereby appoint and call a meeting of the Eſtates of Parliament to ſit down at <hi>Edinburgh</hi> the fourth of <hi>Ja<g ref="char:EOLhyphen"/>nuary</hi> next to come the year of God, 1649. and Ordains the ſeveral Shires and Burghs to ſend thereto Commiſſioners, qualified accord<g ref="char:EOLhyphen"/>ing to the Acts of the Two and twentieth of <hi>September</hi> and fourth of <hi>October,</hi> and doth hereby warn all Members of Parliament, Noble<g ref="char:EOLhyphen"/>men, Commiſſioners of Shires and Burghs, who are free of the faults contained in the foreſaid Acts, to meet and convene at <hi>Edin<g ref="char:EOLhyphen"/>burgh</hi> in Parliament on the day aforeſaid, without any other or fur<g ref="char:EOLhyphen"/>ther warning, or premonition to be made for that effect, but onely the Proclamation and Publication of this preſent Act, and that in place of all other Solemnities and Formalities: And whereas the corrupti<g ref="char:EOLhyphen"/>on
+<pb n="14" facs="tcp:117210:8"/>
+of Judicatories of this Kingdom, and Officers of Eſtate, and other perſons in Publike Truſt, hath been the cauſe and fountain from whence our former evils hath proceeded; And whereas by our Solemn acknowledgement agreed on by Church and State, we are bound to God, by our Engagement to <hi>England</hi> we are bound to them, and by the forecited Acts and Publike Declaration, we are obliged before the world to endeavor the Purgation and Reforma<g ref="char:EOLhyphen"/>tion of our Judicatories and places of Publique Truſt; And foraſ<g ref="char:EOLhyphen"/>much as the foreſaid perſons, and all who are in Publique Truſt, or liable to the judgement and cenſure of Parliament, for their pro<g ref="char:EOLhyphen"/>ceeding in their ſeveral Places and Offices; Like as by the Agree<g ref="char:EOLhyphen"/>ment at <hi>Edinburgh</hi> and <hi>Sterlin,</hi> all ſuch as have been employed in Publike Place and Truſt, and have been acceſſory to the late un<g ref="char:EOLhyphen"/>lawful Engagement, ſhould forbear the exerciſe of their Places in the mean time, and all queſtions are referred to the determination of the Parliament: And whereas by the ſaid Treaty all thoſe who have been acceſſory to the ſaid Engagement, or challengeable for their ſaid acceſſion, at the leaſt in ſo far as concerns their Places and Publike Truſt, and the debarring of them from any of theſe: Therefore the Committee of Eſtates doth hereby warn and cite all and every one of theſe who exerciſed any Office, Publike Place or Truſt, or who were Members or Clerks of any publike Judicatory of whatſoever degree, quality or condition ſoever, in Burgh or Land within this Kingdom, and hath been acceſſory to the late Engagement, or are guilty of the faults mentioned in the Printed Acts of the Two and twentieth of <hi>September</hi> and fourth of <hi>October,</hi> to compier before the Eſtates of Parliament at <hi>Edinburgh</hi> on the fourth day of <hi>January</hi> next, to come in a peaceable way, accom<g ref="char:EOLhyphen"/>panied onely with their own Domeſtick ſervants, to hear and ſee the Parliament take ſuch courſe as they in their Juſtice and Wiſ<g ref="char:EOLhyphen"/>dom ſhall think fit, for purging of the Judicatories, and for de<g ref="char:EOLhyphen"/>claring of their places vacant, and filling them with ſuch as are able and qualified perſons fitteſt for the ſervice, and may give moſt contentment, and as hath continued conſtant to their Covenant and Cauſe in the time of tryal, and for debarring them who are put out from any other Publike Places or Truſt during ſuch time, and in ſuch
+<pb n="12" facs="tcp:117210:8"/>
+maner as the Eſtates of Parliament ſhall think fit, with certification to every one of the perſons concerned as is aboveſaid, and warned by this Publike Proclamation (which the Committee of Eſtates Declares, That they finde it a ſufficient intimation in this our caſe of ſo great and publique a backſliding to all perſons con<g ref="char:EOLhyphen"/>cerned therein, for the effect aforeſaid, to be eſteemed by them equi<g ref="char:EOLhyphen"/>valent to a perſonal citation at their dwelling Houſes, upon particu<g ref="char:EOLhyphen"/>lar ſummons againſt every one of them to compier before the E<g ref="char:EOLhyphen"/>ſtates of Parliament, as is aforeſaid, and compiereth not, that then the Eſtates will proceed both to determine the general queſtion, and the particular concerning their places and truſt, and take what further courſe they ſhall think fitting for the good of the Kingdom: Like as the Committee of Eſtates conſidering the preſent diſtracti<g ref="char:EOLhyphen"/>ons of the times, and that the Parliament ſo nearly approacheth, they think fit to continue the down ſitting of the Seſſion until the Parliament give Order thereanent, and for the acceleration of Ju<g ref="char:EOLhyphen"/>ſtice to the Lieges, the Committee of Eſtates Ordains the Clerks of Seſſion, to give out Acts and Letters of continuation upon the firſt Summons within the ordinary time of the ſitting of the Seſſion, albeit they ſit not; And that none may pretend ignorance of what is mentioned in this preſent Act, the Committee of Eſtates appoints it to be proclaimed at the Market Croſs of <hi>Edinburgh,</hi> Pier and Shore of <hi>Leith,</hi> and to be Printed.</p>
+            <closer>
+               <signed>THO: HENDERSON.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
